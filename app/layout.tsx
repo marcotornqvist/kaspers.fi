@@ -23,7 +23,7 @@ export const metadata: Metadata = {
   description:
     "Kaspers is a construction company based in the Tammisaari, Finland.",
   icons: {
-    icon: "/favicon.png",
+    icon: "/icon.png",
   },
 };
 
