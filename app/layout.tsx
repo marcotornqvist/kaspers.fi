@@ -20,8 +20,7 @@ const EBGaramond = EB_Garamond({
 
 export const metadata: Metadata = {
   title: `Kaspers`,
-  description:
-    "Kaspers is a construction company based in the Tammisaari, Finland.",
+  description: "Kaspers is a construction company based in Raasepori, Finland.",
   icons: {
     icon: "/icon.png",
   },
